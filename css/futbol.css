@@ -1,16 +1,29 @@
+/*etiquetas generales*/
+b {
+    background-color: khaki;
+}
 
 h1{
 
 text-align: center;
 }
 
-div {
+img {
+    width: 100%;
+    height: 100%;
+}
 
- display: inline-block;
+/*clases*/
+.imagenes{
+    display: inline-block;
     background-color: green;
     width: 500px;
     height: 500px;
     margin: 2% 2%;
+
 }
+
+
+
 
 
